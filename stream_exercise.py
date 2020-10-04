@@ -67,6 +67,4 @@ class StreamProcessor(object):
         # stream using the following code:
         #
         # digits = self._stream.read(2)
-
-
         return count
